@@ -1,0 +1,12 @@
+@media (max-width: 1024px){
+    .header__nav1{
+        display: none !important;
+        opacity: 0;
+    }
+}
+@media (max-width: 100%){
+    .header__nav2{
+        display: none !important;
+        opacity: 0;
+    }
+}
